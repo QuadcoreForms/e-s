@@ -1,0 +1,48 @@
+html { /*Стиль web страницы*/
+	font-size: 13px;
+	font-family: fantasy;
+	text-align: center;
+	background-color: #A9A9A9;
+}
+
+body {
+	width: 900px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 10px 10px 10px 20px;
+    border: 2px solid black;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: #696969;
+	font-size: 30px;
+	line-height: 0.3;
+	text-shadow: 1px 1px 1px #7FFF00;
+}
+
+p {
+	font-family: Times New Roman;
+	text-align: justify;
+	font-size: 15px;
+	line-height: 0.3;
+	letter-spacing: 0.6px;
+}
+
+li {
+	font-size: 14px;
+	font-family: Times;
+	text-align: justify;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+	font-family: Trattatello;
+	background-color: #00FF00;
+	border: 1px solid black;
+}
